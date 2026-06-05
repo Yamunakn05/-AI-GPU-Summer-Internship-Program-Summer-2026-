@@ -2,45 +2,40 @@
 
 ## Overview
 
-This session focused on the fundamentals of Machine Learning and the use of GPU-accelerated Scikit-learn for faster model training and data processing.
+This session introduced core Machine Learning concepts and provided hands-on experience with regression and classification algorithms using Scikit-learn.
 
 ## Topics Covered
 
-* Introduction to Machine Learning
-* Types of Machine Learning
-
-  * Supervised Learning
-  * Unsupervised Learning
-* Data Preprocessing Techniques
-* Feature Engineering Basics
+* Machine Learning Fundamentals
+* Supervised Learning
+* Linear Regression
+* Logistic Regression
 * Model Training and Evaluation
 * Accelerated Scikit-learn on GPU
 
 ## Activities Completed
 
-* Worked through practical notebook exercises.
-* Explored dataset preprocessing techniques.
-* Performed data analysis and visualization.
-* Trained machine learning models.
-* Evaluated model performance.
-* Learned how GPU acceleration improves computational efficiency.
+* Implemented Linear Regression models.
+* Explored Logistic Regression for classification tasks.
+* Practiced model training and prediction.
+* Completed hands-on exercises and assignments.
+* Learned the basics of GPU-accelerated machine learning workflows.
 
 ## Files Included
 
-*LinearRegression.ipynb
-*LogisticRegression.ipynb
-*LogisticRegression_Example1.ipynb
-*Assignment.ipynb
-
+* LinearRegression.ipynb
+* LogisticRegression.ipynb
+* LogisticRegression_Example1.ipynb
+* Assignment.ipynb
 
 ## Key Learnings
 
-* Understanding the machine learning workflow.
-* Importance of data preprocessing before model training.
-* Role of feature engineering in improving model performance.
-* Benefits of GPU-accelerated machine learning for large-scale datasets.
-* Fundamentals of model evaluation and performance metrics.
+* Understanding regression and classification problems.
+* Building machine learning models using Scikit-learn.
+* Training, testing, and evaluating models.
+* Using machine learning techniques to make predictions.
+* Introduction to GPU acceleration for faster computations.
 
 ## Outcome
 
-Successfully completed hands-on exercises related to Machine Learning fundamentals and gained experience using GPU-accelerated tools for efficient model development.
+Successfully implemented and tested regression and classification models while gaining practical exposure to machine learning workflows and GPU-accelerated computing.
