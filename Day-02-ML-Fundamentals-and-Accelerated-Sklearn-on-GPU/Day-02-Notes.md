@@ -27,10 +27,11 @@ This session focused on the fundamentals of Machine Learning and the use of GPU-
 
 ## Files Included
 
-* Practical Notebook 1
-* Practical Notebook 2
-* Practical Notebook 3
-* Practical Notebook 4
+*LinearRegression.ipynb
+*LogisticRegression.ipynb
+*LogisticRegression_Example1.ipynb
+*Assignment.ipynb
+
 
 ## Key Learnings
 
