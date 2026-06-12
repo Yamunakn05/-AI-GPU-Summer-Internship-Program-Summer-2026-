@@ -1,0 +1,43 @@
+# Day 07 - LLM Fine-Tuning with LoRA & PEFT using Hugging Face on H200
+
+## Overview
+
+This session introduced the concepts of Large Language Model (LLM) fine-tuning using Parameter-Efficient Fine-Tuning (PEFT) techniques and Low-Rank Adaptation (LoRA). The session also explored the Hugging Face ecosystem and GPU-accelerated model training on NVIDIA H200 GPUs.
+
+## Topics Covered
+
+* Introduction to Large Language Models (LLMs)
+* Fine-Tuning vs Prompt Engineering
+* Parameter-Efficient Fine-Tuning (PEFT)
+* Low-Rank Adaptation (LoRA)
+* Hugging Face Transformers Library
+* Hugging Face Datasets
+* GPU-Accelerated Training on H200
+* Model Inference and Evaluation
+
+## Activities Completed
+
+* Explored the Hugging Face ecosystem for LLM development.
+* Understood the working principles of LoRA and PEFT.
+* Learned how to fine-tune pre-trained language models efficiently.
+* Examined GPU-accelerated training workflows using NVIDIA H200 GPUs.
+* Evaluated the benefits of parameter-efficient fine-tuning techniques.
+
+## Files Included
+
+* LLM Fine-Tuning notebooks
+* LoRA implementation examples
+* PEFT practical exercises
+* Hugging Face demonstrations
+
+## Key Learnings
+
+* Understanding the architecture and capabilities of Large Language Models.
+* Difference between full model fine-tuning and parameter-efficient fine-tuning.
+* Working principles of LoRA for reducing computational requirements.
+* Using Hugging Face libraries for loading, training, and evaluating transformer models.
+* Importance of GPU acceleration for efficient LLM training and inference.
+
+## Outcome
+
+Successfully gained foundational knowledge of LLM fine-tuning using LoRA and PEFT techniques while exploring the Hugging Face ecosystem and GPU-accelerated AI model development on NVIDIA H200 hardware.
